@@ -135,3 +135,18 @@ The evidence suggests activity occurred between execution and deletion, but addi
 3. Timeline creation
 4. Hypothesis development
 5. Investigative questioning
+
+
+### Reflection
+
+Today I learned that forensic investigations are not about finding immediate answers. They are about collecting evidence, building timelines, identifying gaps in the evidence and asking the right questions.
+
+One of the most important lessons was understanding the difference between evidence and conclusions. A timeline can suggest what happened, but additional evidence is required before making definitive claims.
+
+I also learned that deleted files are not necessarily gone. Artifacts such as timestamps, metadata and file system records may still provide valuable evidence during an investigation.
+
+The most important question I asked today was:
+
+"What happened between execution and deletion?"
+
+This showed me that the most important part of an investigation is often hidden in the gaps between known events.
